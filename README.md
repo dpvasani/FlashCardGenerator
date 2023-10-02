@@ -35,7 +35,7 @@ Flashcard Generator website has been developed for the purpose of the creation a
 Clone the project
 
 ```bash
-  git clone https://github.com/Leela-369/FlashCardGenerator-AlmaBetter.git
+  git clone https://github.com/dpvasani/FlashCardGenerator.git
 ```
 
 Go to the project directory
