@@ -66,4 +66,4 @@ Start the server
 
 ## Deployed website
 
-[website](https://flash-card-generator-alma-better-qv1d.vercel.app/)
+[website](https://flash-card-generator-56.vercel.app/)
