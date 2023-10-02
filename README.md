@@ -59,9 +59,9 @@ Start the server
 
 ## Contributors
 
-- Leela Santhosh [Github](https://github.com/Leela-369) | [LinkedIn](https://www.linkedin.com/in/leela-santhosh-758a56223/)
+- Darshan Vasani [Github](https://github.com/dpvasani) | [LinkedIn](https://www.linkedin.com/in/darshan-vasani-3299ba245/)
 
-- Sathwic Raj [Github](https://www.github.com/sathwic97) | [LinkedIn](https://www.linkedin.com/in/sathwic-raj/)
+- Krupali Desai [Github](https://www.github.com/dkrupali56) | [LinkedIn](https://www.linkedin.com/in/krupali-desai-17269a235/)
 
 
 ## Deployed website
